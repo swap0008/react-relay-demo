@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-relay-demo/static/css/main.8a5d1ee3.chunk.css",
+    "main.js": "/react-relay-demo/static/js/main.21258917.chunk.js",
+    "main.js.map": "/react-relay-demo/static/js/main.21258917.chunk.js.map",
+    "runtime~main.js": "/react-relay-demo/static/js/runtime~main.d7fd5236.js",
+    "runtime~main.js.map": "/react-relay-demo/static/js/runtime~main.d7fd5236.js.map",
+    "static/js/2.2757fa1b.chunk.js": "/react-relay-demo/static/js/2.2757fa1b.chunk.js",
+    "static/js/2.2757fa1b.chunk.js.map": "/react-relay-demo/static/js/2.2757fa1b.chunk.js.map",
+    "index.html": "/react-relay-demo/index.html",
+    "precache-manifest.535f7c229d01c795f48af3e68ae7ece9.js": "/react-relay-demo/precache-manifest.535f7c229d01c795f48af3e68ae7ece9.js",
+    "service-worker.js": "/react-relay-demo/service-worker.js",
+    "static/css/main.8a5d1ee3.chunk.css.map": "/react-relay-demo/static/css/main.8a5d1ee3.chunk.css.map"
+  }
+}
